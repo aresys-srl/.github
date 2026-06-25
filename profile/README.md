@@ -20,6 +20,12 @@ We recommend starting from these core projects:
 - **[SCT](https://github.com/aresys-srl/sct)** – SCT (SAR Calibration Toolbox) is another key component of our software stack, extended through a growing set of dedicated plugins. These plugins add specialized capabilities and help tailor the platform to different operational and processing needs
 - **[ArePyTools](https://github.com/aresys-srl/arepytools)** – ArePyTools (ARESYS Python Tools) is our historical collection of tools for basic SAR operations and for opening products in proprietary format. These basic SAR operations are now superseded by perseo_core
 
+## External repositories ARESYS contributed to
+
+We also actively contribute to projects outside this organization, including:
+
+- **[BPS](https://github.com/BioPAL/BPS)** - BPS (BIOMASS Processing Suite) is the collection of operational processors for ESA's (European Space Agency) BIOMASS mission. BIOMASS is ESA's 7th Earth Explorer mission, launched in 2025, and it is the first P-band SAR (Synthetic Aperture Radar) sensor in space operating in fully polarimetric interferometric and tomographic modes. The mission main aim is to map forest properties globally, but the sensor also allows exploring subsurface scenarios (ice, desert). BPS is in charge of processing BIOMASS Level-0 data up to Level-3, generating a wide set of products. BPS was originally written and is currently maintained by ARESYS team on behalf of ESA as part of BIOMASS DISC project
+
 ## Getting started
 
 1. Explore pinned repositories in this organization
