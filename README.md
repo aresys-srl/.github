@@ -1,4 +1,4 @@
-# Aresys
+# ARESYS S.r.l.
 
 Welcome to the official GitHub organization of **ARESYS S.r.l.**.
 
