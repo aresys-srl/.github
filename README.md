@@ -16,9 +16,9 @@ Our repositories host open-source tools, shared libraries, examples, and collabo
 
 We recommend starting from these core projects:
 
-- **[Perseo](https://github.com/aresys-srl/perseo)** – the PERSEO ecosystem is our main platform for building and operating advanced processing workflows. It provides a modular foundation for scalable geospatial and satellite data processing, with a focus on flexibility, automation, and integration
-- **[SCT](https://github.com/aresys-srl/sct)** – SCT is another key component of our software stack, extended through a growing set of dedicated plugins. These plugins add specialized capabilities and help tailor the platform to different operational and processing needs
-- **[ArePyTools](https://github.com/aresys-srl/arepytools)** – ArePyTools is our historical collection of tools for basic SAR operations and for opening products in proprietary format. These basic SAR operations are now superseded by perseo_core
+- **[PERSEO](https://github.com/aresys-srl/perseo)** – PERSEO (Python Ecosystem for Remote Sensing & Earth Observation) is our main platform for building and operating advanced processing workflows. It provides a modular foundation for scalable geospatial and satellite data processing, with a focus on flexibility, automation, and integration
+- **[SCT](https://github.com/aresys-srl/sct)** – SCT (SAR Calibration Toolbox) is another key component of our software stack, extended through a growing set of dedicated plugins. These plugins add specialized capabilities and help tailor the platform to different operational and processing needs
+- **[ArePyTools](https://github.com/aresys-srl/arepytools)** – ArePyTools (ARESYS Python Tools) is our historical collection of tools for basic SAR operations and for opening products in proprietary format. These basic SAR operations are now superseded by perseo_core
 
 ## Getting started
 
@@ -42,7 +42,9 @@ Check each repository for specific contribution rules and coding standards.
 ## Links
 
 - 🌐 Website: [www.aresys.it](https://www.aresys.it)
-- 💼 LinkedIn: [Aresys on LinkedIn](https://www.linkedin.com/company/aresys)
+- 💼 LinkedIn: [ARESYS on LinkedIn](https://www.linkedin.com/company/aresys-srl)
+
+Don't forget to visit our [Work with us](https://www.aresys.it/careers) page!
 
 ---
 
