@@ -25,19 +25,7 @@ We recommend starting from these core projects:
 1. Explore pinned repositories in this organization
 2. Read each project’s `README.md` for setup and usage instructions
 3. Open an issue if you find a bug or want to suggest an improvement
-
-## Contributing
-
-We welcome contributions from team members and external collaborators where applicable.
-
-Please:
-
-1. Fork the repository
-2. Create a feature branch (`feature/my-change`)
-3. Commit your changes with clear messages
-4. Open a Pull Request with context and testing notes
-
-Check each repository for specific contribution rules and coding standards.
+4. Fork, branch, commit, and open a Pull Request if you want to contribute (note: check each repository for specific contribution rules and coding standards)
 
 ## Links
 
